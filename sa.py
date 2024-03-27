@@ -1,1 +1,2 @@
-print(sujay)
+name=input(sujay)
+print(name)
