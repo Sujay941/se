@@ -1,2 +1,2 @@
-name=input(sujay)
+name=input(sujay raj)
 print(name)
